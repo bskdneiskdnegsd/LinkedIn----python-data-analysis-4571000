@@ -1,3 +1,4 @@
+t status
 '''
 Find palindromes
 Palindromes are pairs of words that become each other when we reverse the order of their letters. That means that all palindromes are anagrams!
